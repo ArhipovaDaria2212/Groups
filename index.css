@@ -1,0 +1,20 @@
+body {
+margin: auto;
+font-size: 25px;
+}
+table {
+    width: 100%;
+    background-color: rgb(240, 214, 175);
+    text-align: center;
+    border-radius: 3px;
+}
+td {
+    border: 1px solid rgb(80, 48, 6);
+}
+#first{
+    text-decoration: underline;
+    font-weight: bold;
+}
+div.tabs {
+    background-color: rgb(241, 223, 201);
+}
